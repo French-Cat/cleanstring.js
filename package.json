@@ -4,7 +4,7 @@
   "description": "Transforms any string into an html friendly string",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo nya"
   },
   "repository": {
     "type": "git",
