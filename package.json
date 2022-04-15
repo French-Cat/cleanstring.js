@@ -1,0 +1,27 @@
+{
+  "name": "cleanstring.js",
+  "version": "1.0.0",
+  "description": "Transforms any string into an html friendly string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/French-Cat/cleanstring.js.git"
+  },
+  "keywords": [
+    "clean",
+    "chat",
+    "chatapp",
+    "html",
+    "friendly",
+    "string"
+  ],
+  "author": "frcat.win",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/French-Cat/cleanstring.js/issues"
+  },
+  "homepage": "https://github.com/French-Cat/cleanstring.js#readme"
+}
