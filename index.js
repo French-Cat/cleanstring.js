@@ -1,8 +1,8 @@
-function clean(parm1) {
-    const parm2 = parm1.replaceAll("<", "&lt"),
-        parm3 = parm2.replaceAll(">", "&gt"),
-        parm4 = parm3.replaceAll("≤", "&le"),
-        parm5 = parm4.replaceAll("≥", "&ge");
-    return parm5;
+function clean(a) {
+    const b = a.replaceAll("<", "&lt"),
+        c = b.replaceAll(">", "&gt"),
+        d = c.replaceAll("≤", "&le"),
+        e = d.replaceAll("≥", "&ge");
+    return e;
 }
 module.exports = clean;
