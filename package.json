@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "cleanstring.js",
   "version": "1.0.1",
   "description": "Transforms any string into an html friendly string",
